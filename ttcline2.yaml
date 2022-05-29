@@ -1,0 +1,155 @@
+  - name: "TTC Kipling Subway"
+    latitude: 43.638020312
+    longitude: -79.536388119
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Islington Subway"
+    latitude: 43.645950081
+    longitude: -79.523947976
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Royal York Subway"
+    latitude: 43.648804442
+    longitude: -79.511540512
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Old Mill Subway"
+    latitude: 43.650576487
+    longitude: -79.495224994
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Jane Subway"
+    latitude: 43.650291274
+    longitude: -79.484771783
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Runnymede Subway"
+    latitude: 43.652166954
+    longitude: -79.476499160
+    radius: 150
+    icon: mdi:train
+  - name: "TTC High Park Subway"
+    latitude: 43.654594232
+    longitude: -79.465529622
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Keele Subway"
+    latitude: 43.655700785
+    longitude: -79.460315483
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Dundas West Subway"
+    latitude: 43.657142061
+    longitude: -79.452678426
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Lansdowne Subway"
+    latitude: 43.659142924
+    longitude: -79.442969912
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Dufferin Subway"
+    latitude: 43.660665098
+    longitude: -79.435955802
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Ossington Subway"
+    latitude: 43.662663329
+    longitude: -79.426156823
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Christie Subway"
+    latitude: 43.664251781
+    longitude: -79.418693027
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Bathurst Subway"
+    latitude: 43.665991758
+    longitude: -79.411582548
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Spadina Subway"
+    latitude: 43.667647755
+    longitude: -79.403758401
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St George Subway"
+    latitude: 43.668311635
+    longitude: -79.398643233
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Bay Subway"
+    latitude: 43.670400288
+    longitude: -79.390270289
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Yonge Subway"
+    latitude: 43.670706062
+    longitude: -79.385879814
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Sherbourne Subway"
+    latitude: 43.672345084
+    longitude: -79.376981614
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Castle Frank Subway"
+    latitude: 43.674140625
+    longitude: -79.368794155
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Broadview Subway"
+    latitude: 43.676861715
+    longitude: -79.358523845
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Chester Subway"
+    latitude: 43.678377345
+    longitude: -79.351416279
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Pape Subway"
+    latitude: 43.679684930
+    longitude: -79.345208527
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Donlands Subway"
+    latitude: 43.681050077
+    longitude: -79.337925572
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Greenwood Subway"
+    latitude: 43.682703613
+    longitude: -79.330276435
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Coxwell Subway"
+    latitude: 43.684149170
+    longitude: -79.323527235
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Woodbine Subway"
+    latitude: 43.686352895
+    longitude: -79.313357113
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Main Street Subway"
+    latitude: 43.688916606
+    longitude: -79.302728755
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Victoria Park Subway"
+    latitude: 43.694320822
+    longitude: -79.290318935
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Warden Subway"
+    latitude: 43.712242009
+    longitude: -79.278980371
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Kennedy Subway"
+    latitude: 43.732118151
+    longitude: -79.265698446
+    radius: 150
+    icon: mdi:train

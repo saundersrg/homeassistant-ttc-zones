@@ -1,0 +1,25 @@
+  - name: "TTC Sheppard-Yonge Subway"
+    latitude: 43.761618114
+    longitude: -79.410988637
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Bayview Subway"
+    latitude: 43.767252223
+    longitude: -79.387398646
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Bessarion Subway"
+    latitude: 43.769126785
+    longitude: -79.376724185
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Leslie Subway"
+    latitude: 43.771132451
+    longitude: -79.367416349
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Don Mills Subway"
+    latitude: 43.775564642
+    longitude: -79.346936420
+    radius: 150
+    icon: mdi:train
