@@ -1,0 +1,180 @@
+  - name: "TTC Vaughan Metro Centre Subway"
+    latitude: 43.794385
+    longitude: -79.527512
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Highway 407 Subway"
+    latitude: 43.783222
+    longitude: -79.523752
+    radius: 150
+    icon: mdi:train
+  - name: "TTC York University Subway"
+    latitude: 43.773910
+    longitude: -79.499858
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Downsview Park Subway"
+    latitude: 43.753700
+    longitude: -79.478380
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Sheppard West Subway"
+    latitude: 43.750053813
+    longitude: -79.462342744
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Wilson Subway"
+    latitude: 43.734580620
+    longitude: -79.449928713
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Yorkdale Subway"
+    latitude: 43.724813020
+    longitude: -79.447509462
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Lawrence West Subway"
+    latitude: 43.716381433
+    longitude: -79.444029153
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Glencairn Subway"
+    latitude: 43.709819963
+    longitude: -79.441528421
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Eglinton West Subway"
+    latitude: 43.698996649
+    longitude: -79.435989533
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St Clair West Subway"
+    latitude: 43.684352034
+    longitude: -79.414535879
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Dupont Subway"
+    latitude: 43.674909875
+    longitude: -79.407256672
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Spadina Subway"
+    latitude: 43.667714585
+    longitude: -79.403751969
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St George Subway"
+    latitude: 43.668318768
+    longitude: -79.398672286
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Museum Subway"
+    latitude: 43.667177071
+    longitude: -79.393502230
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Queen's Park Subway"
+    latitude: 43.659704948
+    longitude: -79.390349040
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St Patrick Subway"
+    latitude: 43.654611638
+    longitude: -79.388295977
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Osgoode Subway"
+    latitude: 43.650874106
+    longitude: -79.386617316
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St Andrew Subway"
+    latitude: 43.647645649
+    longitude: -79.385130483
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Union Subway"
+    latitude: 43.645722666
+    longitude: -79.380462258
+    radius: 150
+    icon: mdi:train
+  - name: "TTC King Subway"
+    latitude: 43.649120879
+    longitude: -79.378045133
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Queen Subway"
+    latitude: 43.652346514
+    longitude: -79.379326503
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Dundas Subway"
+    latitude: 43.656136534
+    longitude: -79.380729654
+    radius: 150
+    icon: mdi:train
+  - name: "TTC College Subway"
+    latitude: 43.661229971
+    longitude: -79.382782166
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Wellesley Subway"
+    latitude: 43.665182941
+    longitude: -79.383770788
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Bloor Subway"
+    latitude: 43.670671998
+    longitude: -79.385950091
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Rosedale Subway"
+    latitude: 43.676900952
+    longitude: -79.388725888
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Summerhill Subway"
+    latitude: 43.682449998
+    longitude: -79.391178237
+    radius: 150
+    icon: mdi:train
+  - name: "TTC St Clair Subway"
+    latitude: 43.688162978
+    longitude: -79.393284347
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Davisville Subway"
+    latitude: 43.698123394
+    longitude: -79.397331412
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Eglinton Subway"
+    latitude: 43.706645843
+    longitude: -79.399158462
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Lawrence Subway"
+    latitude: 43.725421915
+    longitude: -79.401877582
+    radius: 150
+    icon: mdi:train
+  - name: "TTC York Mills Subway"
+    latitude: 43.744995922
+    longitude: -79.405330677
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Sheppard-Yonge Subway"
+    latitude: 43.761674341
+    longitude: -79.410987148
+    radius: 150
+    icon: mdi:train
+  - name: "TTC North York Centre Subway"
+    latitude: 43.769241254
+    longitude: -79.412911598
+    radius: 150
+    icon: mdi:train
+  - name: "TTC Finch Subway"
+    latitude: 43.781490124
+    longitude: -79.415672606
+    radius: 150
+    icon: mdi:train
